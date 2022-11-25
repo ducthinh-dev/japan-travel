@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: auto;
+}
+
+.expand-section {
+    display: none;
+}
+
+.dropdown-section:hover .expand-section {
+    display: block;
+}
